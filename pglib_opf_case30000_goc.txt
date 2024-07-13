@@ -1,0 +1,6 @@
+solve_time:    526.1681749820709
+optimizer:     Ipopt
+termination_status:    LOCALLY_SOLVED
+dual_status:   FEASIBLE_POINT
+primal_status:     FEASIBLE_POINT
+objective:     1.1423315687882788e6
